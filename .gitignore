@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.DS_Store
+/agent/checkpoints/
+/agent/checkpoints_*/
+/agent/data/
+/checkpoints/
+*.log
